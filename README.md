@@ -1,5 +1,4 @@
 # Information
-Information about the Crolus bot
 Crolus bot is a expandable (modular), developers API , user friendly, customizable to the max.
 Which was made in the Discord Hack Week.
 

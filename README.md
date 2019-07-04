@@ -8,7 +8,7 @@ Our user friendly web-app allows the average user to customize the bot without a
 # Get Crolus
 You can obtain Crolus for your own Discord server by [clicking here](https://discordapp.com/api/oauth2/authorize?client_id=592265882248675360&permissions=0&scope=bot).
 
-
+Crolus [Discord server](https://discord.gg/3zunh3F)
 # Team
 - KingMotro#0604
 - d4rk1o#0249

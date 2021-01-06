@@ -11,6 +11,4 @@ You can obtain Crolus for your own Discord server by [clicking here](https://dis
 Support? [Crolus Discord server](https://discord.gg/3zunh3F)
 # Team
 - KingMotro#0604
-- d4rk1o#0249
-- 𝐿𝑒𝑔𝑒𝓃𝒹𝒶𝓇𝓎#9725
 - Cardinal System#0461
